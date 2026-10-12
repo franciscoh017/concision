@@ -1,0 +1,10 @@
+{
+  "name": "concision",
+  "description": "Create, edit, and explain information with clarity, purpose, and audience-aware concision.",
+  "version": "1.0.0",
+  "author": {"name": "franciscoh017"},
+  "homepage": "https://github.com/franciscoh017/concision",
+  "repository": "https://github.com/franciscoh017/concision",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "concision", "explanations", "communication"]
+}

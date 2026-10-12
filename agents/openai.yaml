@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concision"
+  short_description: "Clear communication and explanations, with optional coaching."
+  default_prompt: "Use $concision to write or explain this clearly for my audience, preserving the intent and essential details."

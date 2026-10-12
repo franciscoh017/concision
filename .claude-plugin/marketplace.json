@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "concision",
+  "owner": {
+    "name": "franciscoh017",
+    "url": "https://github.com/franciscoh017"
+  },
+  "description": "Install Concision as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "concision",
+      "source": "./",
+      "description": "Create, edit, and explain information with clarity, purpose, and audience-aware concision.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "concision", "explanations", "communication"]
+    }
+  ]
+}
